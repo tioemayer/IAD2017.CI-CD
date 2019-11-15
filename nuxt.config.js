@@ -48,8 +48,5 @@ export default {
     */
     extend (config, ctx) {
     }
-  },
-  router: {
-    base: '/IAD2017.CI-CD/'
   }
 }
